@@ -1,5 +1,5 @@
 language: csharp
 mono:
   - latest
-  script:
-  - mcs test.cs
+script:
+- "mcs test.cs"
